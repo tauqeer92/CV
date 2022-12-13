@@ -16,14 +16,14 @@ Previously in my career, I qualified as an [actuary](https://www.actuaries.org.u
 
 I would like to work at a company that also shares my goal of moving the world forward and creating real, tangible benefits for society. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, and rapidly developing tech skills to help them achieve this. 
 
-## <a name="projects">What I've been working on (Projects) 👨‍💻</a>
+## <a name="projects">Projects</a>
 
 | Project Name   | Description | Repo | Technologies |
 |---        |---          |---   |---           |
-| [FriendZone]| Social Media site which brings the world together. It includes a chat feature and swipe right function to enable the chat so you can connect and . | https://github.com/tauqeer92/MERNsters-inc| Javascript, Mongodb, Mongoose, Express, React, Node.js, Firebase, Jest, Cypress, Vite, Vitest, BCrypt, Tailwind CSS, useGestures, Nodemon |
-| [Spybook] | A social media site exclusive to superheroes. |https://github.com/tauqeer92/acebook-the-incredibles| Javascript, Mongodb, Mongoose, Express, React, Node.js, Firebase, Jest, Cypress |
-| [Air BNB] | An Air BNB clone which allows users to book a space and allows owners of properties to list a space for users to book. | https://github.com/tauqeer92/makersbnb-ruby-seed | Ruby, Postgresql, HTML, CSS, SQL |
-| [MRP Spftware] | A site which allows you to manage manufacturing resources, costs and track stock levels | https://github.com/tauqeer92/Lawrence-Beds-MRP | Javascript, Mongodb, Mongoose, Express, React, Node.js |
+| FriendZone| Social Media site which brings the world together. It includes a chat feature and swipe right function to enable the chat so you can connect and . | https://github.com/tauqeer92/MERNsters-inc| Javascript, Mongodb, Mongoose, Express, React, Node.js, Firebase, Jest, Cypress, Vite, Vitest, BCrypt, Tailwind CSS, useGestures, Nodemon |
+| Spybook | A social media site exclusive to superheroes. |https://github.com/tauqeer92/acebook-the-incredibles| Javascript, Mongodb, Mongoose, Express, React, Node.js, Firebase, Jest, Cypress |
+| Air BNB | An Air BNB clone which allows users to book a space and allows owners of properties to list a space for users to book. | https://github.com/tauqeer92/makersbnb-ruby-seed | Ruby, Postgresql, HTML, CSS, SQL |
+| MRP Spftware | A site which allows you to manage manufacturing resources, costs and track stock levels | https://github.com/tauqeer92/Lawrence-Beds-MRP | Javascript, Mongodb, Mongoose, Express, React, Node.js |
 
 For more, please see my [GitHub repo list](https://github.com/tauqeer92?tab=repositories).
 
@@ -57,17 +57,17 @@ Full-time software development course focusing on:
 - Web frameworks, version control, and CI/CD to create full stack web apps
 - Facilitating knowledge sharing (selected to be a Mentor for incoming students)
 
-#### [Brampton Manor Secondary School](https://www.bancrofts.org/) (2004-2009)
+#### [Brampton Manor Secondary School](https://www.bramptonmanor.org) (2004-2009)
 
 - 7 GCSE's: Including English, Maths, Science & IT
 
 ## <a name="experience">Experience</a>
 
-**[Stagecoach](https://www.medline.io)** (May 2017 to Present)    
+**[Stagecoach](https://www.stagecoachbus.com)** (May 2017 to Present)    
 *Volunteer Software Developer*
 - Creating web pages using React and Typescript for their online platform ([medline.io](http://www.medline.io/)) as part of the in-progress ‘[Fight Covid-19](https://www.donatecode.com/project/fight-covid-19-platform-connecting-medical-supply-needs-with-suppliers/)’ project.
 
-**[Network Research](https://www.britinsurance.com/)** (September 2010 to May 2017)    
+**[Network Research](https://www.thisismotif.com)** (September 2010 to May 2017)    
 *Enterprise Risk Management Actuary (fully qualified Fellow of the [Institute of Actuaries](https://www.actuaries.org.uk/))*  
 - Running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
 - Testing pricing assumptions and investment risk scenarios via analytical software models
