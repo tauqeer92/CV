@@ -67,8 +67,20 @@ Full-time software development course focusing on:
 *Volunteer Software Developer*
 - Creating web pages using React and Typescript for their online platform ([medline.io](http://www.medline.io/)) as part of the in-progress ‘[Fight Covid-19](https://www.donatecode.com/project/fight-covid-19-platform-connecting-medical-supply-needs-with-suppliers/)’ project.
 
-**[Network Research](https://www.thisismotif.com)** (September 2010 to May 2017)    
-*Enterprise Risk Management Actuary (fully qualified Fellow of the [Institute of Actuaries](https://www.actuaries.org.uk/))*  
+**[Network Research](https://www.thisismotif.com)** (September 2013 to May 2017)    
+*Supervisor (fully qualified Fellow of the [Institute of Actuaries](https://www.actuaries.org.uk/))*  
+- Running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
+- Testing pricing assumptions and investment risk scenarios via analytical software models
+- Received an award for increasing efficiency in a major internal project
+
+**[Network Research](https://www.thisismotif.com)** (September 2013 to May 2015)    
+*Senior Interviewer (fully qualified Fellow of the [Institute of Actuaries](https://www.actuaries.org.uk/))*  
+- Running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
+- Testing pricing assumptions and investment risk scenarios via analytical software models
+- Received an award for increasing efficiency in a major internal project
+
+**[Network Research](https://www.thisismotif.com)** (September 2010 to May 2013)    
+*Telephone Interviewer (fully qualified Fellow of the [Institute of Actuaries](https://www.actuaries.org.uk/))*  
 - Running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
 - Testing pricing assumptions and investment risk scenarios via analytical software models
 - Received an award for increasing efficiency in a major internal project
