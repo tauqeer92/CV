@@ -10,7 +10,9 @@
 
 ## <a name="about_me">About me</a>
 
-A proactive, dynamic, and creative **Full Stack Software Developer** by day. A music, [film](https://github.com/jasylwong/wepick) and pizza aficionado by night.
+I'm a determined, passionate, and curious **Full Stack Software Developer**, looking to join a company on an exciting journey where I can use my skills and knowledge to help create innovative and meaningful solutions, make a real impact while making a positive contribution to the team and the company.
+
+I have been studying at Makers Academy since August 2022 where I learned the fundamentals of software development, it's here where I realised my passion and natural apptitude for coding. My analytical mind, curiosity fuels my desire to gain a deep understanding of various programming languages and frameworks and apply my knowledge to real-world projects.
 
 Previously in my career, I qualified as an [actuary](https://www.actuaries.org.uk/become-actuary/what-actuary) (a globally recognised qualification renowned for being particularly arduous and having a high drop out rate). I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection, and medical healthcare. Furthermore, I enjoy working in industries that are continually progressing, and where there is always the chance to learn something new. 
 
