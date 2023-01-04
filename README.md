@@ -14,10 +14,6 @@ I'm a determined, passionate, and curious **Full Stack Software Developer**, loo
 
 I have been studying at Makers Academy since August 2022 where I learned the fundamentals of software development, it's here where I realised my passion and natural apptitude for coding. My analytical mind, curiosity fuels my desire to gain a deep understanding of various programming languages and frameworks and apply my knowledge to real-world projects.
 
-Previously in my career, I qualified as an [actuary](https://www.actuaries.org.uk/become-actuary/what-actuary) (a globally recognised qualification renowned for being particularly arduous and having a high drop out rate). I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection, and medical healthcare. Furthermore, I enjoy working in industries that are continually progressing, and where there is always the chance to learn something new. 
-
-I would like to work at a company that also shares my goal of moving the world forward and creating real, tangible benefits for society. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, and rapidly developing tech skills to help them achieve this. 
-
 ## <a name="projects">Projects</a>
 
 | Project Name   | Description | Repo | Technologies |
@@ -87,10 +83,6 @@ Full-time software development course focusing on:
 - Received an award for increasing efficiency in a major internal project
 
 ## <a name="interests">Interests</a>
-
-- 💻 **Getting involved in the tech scene**: Writing [tech blogs](https://medium.com/@jasylwong) and attending events in a variety of tech groups and meetups, eg. [FreeCodeCamp](https://www.freecodecamp.org/), [Code Untapped](https://codeuntapped.com/), [Coders UK](https://www.meetup.com/CodersUK/), [LRUG](http://lrug.org/), [Ruby Hacknight](https://www.meetup.com/ruby-hacknight-london/) 
-- 🎹 **Music:** Ex-professional (self-taught) bassist, grade 6 pianist, and University of Warwick Big Band Treasurer (previously Librarian)
-- 📚 **Reading:** Just finished [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO), and [The Sandman: Preludes & Nocturnes](https://www.amazon.co.uk/Sandman-Preludes-Nocturnes-Vol/dp/1852863269). 10/10 would recommend both.
-- 🏊 **Swimming:** Captain of the school swimming team, qualified lifeguard and ASA Level 1 swimming teacher
-- ✈️ **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from working in China for 2 years post-uni, French & Spanish (GCSE A*)
-- ✏️ **Drawing:** Graphic novel enthusiast, and [casual sketcher](https://www.instagram.com/p/BqIzOWugZ32/)
+- 📚 **Reading** 
+- ⚽️ **Football**
+- 🚴‍♂️ **Cycling**
