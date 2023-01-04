@@ -12,13 +12,13 @@
 
 I'm a determined, passionate, and curious **Full Stack Software Developer**, looking to join a company on an exciting journey where I can use my skills and knowledge to help create innovative and meaningful solutions, make a real impact while making a positive contribution to the team and the company.
 
-I have been studying at Makers Academy since August 2022 where I learned the fundamentals of software development, it's here where I realised my passion and natural apptitude for coding. My analytical mind, curiosity fuels my desire to gain a deep understanding of various programming languages and frameworks and apply my knowledge to real-world projects.
+I have been studying at Makers Academy since August 2022 where I learned the fundamentals of software development, it's where I realised my passion and natural apptitude for coding. My analytical mind, curiosity fuels my desire to gain a deep understanding of various programming languages and frameworks and apply my knowledge to real-world projects.
 
 ## <a name="projects">Projects</a>
 
 | Project Name   | Description | Repo | Technologies |
 |---        |---          |---   |---           |
-| FriendZone| Social Media site which brings the world together. It includes a chat feature and swipe right function to enable the chat so you can connect and . | https://github.com/tauqeer92/MERNsters-inc| Javascript, Mongodb, Mongoose, Express, React, Node.js, Firebase, Jest, Cypress, Vite, Vitest, BCrypt, Tailwind CSS, useGestures, Nodemon |
+| FriendZone| Social Media site which brings the world together. It includes a chat feature and swipe right function to enable the chat so you can connect and communicate with a friend. | https://github.com/tauqeer92/MERNsters-inc| Javascript, Mongodb, Mongoose, Express, React, Node.js, Firebase, Jest, Cypress, Vite, Vitest, BCrypt, Tailwind CSS, useGestures, Nodemon |
 | Spybook | A social media site exclusive to superheroes. |https://github.com/tauqeer92/acebook-the-incredibles| Javascript, Mongodb, Mongoose, Express, React, Node.js, Firebase, Jest, Cypress |
 | Air BNB | An Air BNB clone which allows users to book a space and allows owners of properties to list a space for users to book. | https://github.com/tauqeer92/makersbnb-ruby-seed | Ruby, Postgresql, HTML, CSS, SQL |
 
@@ -26,27 +26,21 @@ For more, please see my [GitHub repo list](https://github.com/tauqeer92?tab=repo
 
 ## <a name="skills">Skills</a>
 
-#### Excellent communicator, presenter, and mentor ####
-- Provided training to colleagues on exposure management via presentations at Brit Insurance.
-- Taught English to business professionals and classes of schoolchildren, and received an ‘Exceptional performance’ award for my service.
-- Selected to be the mentor for incoming employees/students at Mercer and Makers, and tutored beginner coders via the Makers PairUp platform.
+#### Fast Learner, time management skills ####
+- I learnt Node.js, Express, React while building a social media site in Makers in a few weeks, without being taught during the course and no prior experience.
+- In one of the busiest cities in the world, the London bus network is one the main forms of transport and has to meet a strict timetable to ensure London stays moving, I had to ensure I stuck to the timetable even when faced with challenging scenarios.
 
-#### Self-reliant individual and significantly contributory team member ####
-- As the Treasurer of the [University Big Band Society](http://thebigband.co.uk/), single-handedly raised enough funding for them to attend the [National Concert Band Festival](https://www.ncbf.info/) in Glasgow, where we received a Platinum award.
-- As the swimming captain, led the school swimming team to several victories at local galas.
+#### Analytical thinker, high level of concentration ####
+- Desire to understand relevant coding concepts in detail, manipulating code with a goal of being innovative.
+- Able to go the extra mile, dedicated to get the best out of myself
 
-#### Fast learner, effective timekeeping skills, and experienced project management ####
-- Deployed multiple webpages for medline.io's coding project using React and TypeScript within a few weeks, having next to no prior knowledge of either tech
-- Had to balance both full-time work and self-study efficiently to qualify as an actuary a year quicker than the [industry average](https://www.theactuary.com/archive/old-articles/part-6/a-long-road-3F/).
-- Responsible for coordinating Brit's Risk Oversight Committee, which is attended by the company's Non-Executive Directors and C-Suite managers.
-
-#### Highly analytical thinker and innovative problem solver ####
-- Produced summaries of the company's investment portfolio to Brit's Chief Risk Officer, based on own technical analysis and interpretation of the company's assets and current economic environment.
-- As the Librarian of the University Big Band Society, introduced a new folder system that significantly reduced the time needed to organise and locate music sheets, and is still being used today.
+#### Leadership, communication ####
+- During my Supervisor role in Network Research, I was in charge of ensuring a team of telephone interviewers met survey targets hourly by keeping track of statistical data. If a target wasn't met, we had to arrange a plan and I had to make sure my team was motivated throughout to meet the target.
+- Throughout projects in Makers, I took a team leader role to ensure we cpmpleted tickets and met the deadline to showcase our project.
 
 ## <a name="education">Education</a>
 
-#### [Makers Academy](https://makers.tech/) (August to December 2022)
+#### [Makers Academy](https://makers.tech/) (August 2022 - December 2022)
 
 Full-time software development course focusing on:	
 - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
