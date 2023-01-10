@@ -11,7 +11,9 @@
 ## <a name="about_me">About me</a>
 
 I'm a determined, passionate, and curious **Full Stack Software Developer**, looking to join a company on an exciting journey where I can use my skills and knowledge to help create innovative and meaningful solutions. I would like to make a real impact while making a positive contribution to the team and the company.
-After years of searching for my passion, I came across coding and quickly realized the potential, the challenge, the ability to use this skill to have a positive impact on people's lives. Finally, my search had ended. 
+
+After years of searching for my passion, I came across coding and quickly realized the potential, the challenge, the ability to use this skill to have a positive impact on people's lives. Finally, my search had ended.
+
 I have been studying at Makers Academy since August 2022 where I learned the fundamentals of software development, it's where I realized my natural aptitude for coding. My analytical mind and curiosity which fuels my desire to gain a deeper understanding of various programming languages and frameworks and apply my knowledge to real-world projects.
 
 
