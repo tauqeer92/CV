@@ -10,9 +10,10 @@
 
 ## <a name="about_me">About me</a>
 
-I'm a determined, passionate, and curious **Full Stack Software Developer**, looking to join a company on an exciting journey where I can use my skills and knowledge to help create innovative and meaningful solutions, make a real impact while making a positive contribution to the team and the company.
+I'm a determined, passionate, and curious **Full Stack Software Developer**, looking to join a company on an exciting journey where I can use my skills and knowledge to help create innovative and meaningful solutions. I would like to make a real impact while making a positive contribution to the team and the company.
+After years of searching for my passion, I came across coding and quickly realized the potential, the challenge, the ability to use this skill to have a positive impact on people's lives. Finally, my search had ended. 
+I have been studying at Makers Academy since August 2022 where I learned the fundamentals of software development, it's where I realized my natural aptitude for coding. My analytical mind and curiosity which fuels my desire to gain a deeper understanding of various programming languages and frameworks and apply my knowledge to real-world projects.
 
-I have been studying at Makers Academy since August 2022 where I learned the fundamentals of software development, it's where I realised my passion and natural apptitude for coding. My analytical mind, curiosity fuels my desire to gain a deep understanding of various programming languages and frameworks and apply my knowledge to real-world projects.
 
 ## <a name="projects">Projects</a>
 
@@ -27,18 +28,21 @@ For more, please see my [GitHub repo list](https://github.com/tauqeer92?tab=repo
 ## <a name="skills">Skills</a>
 
 #### Fast Learner, time management skills ####
-- I learnt Node.js, Express, React while building a social media site in Makers in a few weeks, without being taught during the course and no prior experience.
-- In one of the busiest cities in the world, the London bus network is one the main forms of transport and has to meet a strict timetable to ensure London stays moving, I had to ensure I stuck to the timetable even when faced with challenging scenarios.
+- During Makers, I learnt Node.js, Express, React and MongoDB while building a social media site in a few weeks, without being taught during the course and no prior experience.
+- During my transition from Senior Interviewer to Supervisor, I had to develop many soft skills in a short amount of time in order to lead a team effectively.
+- In one of the busiest cities in the world, the London bus network is one the main forms of transport and needs to meet a strict timetable to ensure London continues to move, I had to ensure I stuck to the timetable even when faced with challenging scenarios.
 
 #### Analytical thinker, high level of concentration ####
-- Desire to understand relevant coding concepts in detail, manipulating code with a goal of being innovative.
-- Able to go the extra mile, dedicated to get the best out of myself
+- I have a desire to understand relevant coding concepts in detail and also writing creative, clean code.
+- While coding, I demonstrate a high level of concentration, this is my comfort zone. I actively seek challenging tickets during a project so I can demonstrate my analytical approach.
+- During stand ups, when issues are brought up which is preventing a team member from completing a ticket, I’m quick to offer assistance to try and help identify and resolve the issue.
 
 #### Leadership, communication ####
-- During my Supervisor role in Network Research, I was in charge of ensuring a team of telephone interviewers met survey targets hourly by keeping track of statistical data. If a target wasn't met, we had to arrange a plan and I had to make sure my team was motivated throughout to meet the target.
-- Throughout projects in Makers, I took a team leader role to ensure we cpmpleted tickets and met the deadline to showcase our project.
+- During my Supervisor role in Network Research, I was in charge of ensuring a team of telephone interviewers met survey targets hourly by keeping track of statistical data. If a target wasn't met, we had to arrange a plan and I had to make sure my team was motivated throughout to meet the target. If it was long term productivity issue, I had to conduct a performance review to figure out a long term strategy.
+- Throughout projects in Makers, I took a team leader role to ensure we completed tickets and met the deadline to present our projects.
+- In the early stages of my Supervisor role, I was thrown into the deep at the start. I was based in the London call center, which is in charge of all call centers. When I was left alone and an IT failure occurred, it was my responsibility to repair the issue or productivity will be affected massively. I had to take control, communicate with many different departments while leading the repair
 
-## <a name="education">Education</a>
+## <a name="education"> Relevant Education</a>
 
 #### [Makers Academy](https://makers.tech/) (August 2022 - December 2022)
 
@@ -46,35 +50,52 @@ Full-time software development course focusing on:
 - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
 - Agile principles, pair programming, stand-ups, retros, and sprint planning
 - Web frameworks, version control, and CI/CD to create full stack web apps
-- Facilitating knowledge sharing (selected to be a Mentor for incoming students)
-
-#### [Brampton Manor Secondary School](https://www.bramptonmanor.org) (2004-2009)
-
-- 7 GCSE's: Including English, Maths, Science & IT
+- Facilitating knowledge sharing
+- Conducting code reviews, giving feedback and receiving feedback
+- Demonstrated self-led learning and learnt new languages and frameworks in a short amount of time
 
 ## <a name="experience">Experience</a>
 
-**[Stagecoach](https://www.stagecoachbus.com)** (May 2017 to Present)    
+**[Stagecoach](https://www.stagecoachbus.com)** (2017 - Present)    
 *Bus Driver*
-- Creating web pages using React and Typescript for their online platform ([medline.io](http://www.medline.io/)) as part of the in-progress ‘[Fight Covid-19](https://www.donatecode.com/project/fight-covid-19-platform-connecting-medical-supply-needs-with-suppliers/)’ project.
+- Transporting passengers safely and efficiently from one location to another according to a schedule
+- Ensuring the bus is in good working condition by performing daily pre-trip inspections and reporting any issues to the appropriate party
+- Providing excellent customer service to passengers, answering questions, providing assistance to vulnerable passengers and handling complaints and - concerns.
+- Maintaining records such as logs, schedules and vehicle maintenance reports
+- Following all traffic laws and regulations
+- Being proactive in identifying potential issues and taking preventative measures to avoid breakdowns
 
-**[Network Research](https://www.thisismotif.com)** (September 2013 to May 2017)    
+
+**[Network Research](https://www.thisismotif.com)** (2015 - 2017)    
 *Supervisor*  
-- Running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
-- Testing pricing assumptions and investment risk scenarios via analytical software models
-- Received an award for increasing efficiency in a major internal project
+- Managing a team of telephone interviewers
+- Setting performance targets
+- Conducting performance reviews
+- Monitoring performance
+- Resolving IT issues
+- Communicating with other call centers whenever there’s an issue
+- Delivering a presentation to telephone interviewers on a new project, the requirements, background of the project, the company’s background
+- Assessing strengths and weaknesses of interviewers, communicating this to the call center manager and this used to decide who to assign which project
+- Training trainee telephone interviewers, ensuring the new recruits have the necessary skills to pass a trial period and to be given permanent contracts
 
-**[Network Research](https://www.thisismotif.com)** (September 2013 to May 2015)    
+
+**[Network Research](https://www.thisismotif.com)** (2013 - 2015)    
 *Senior Interviewer*  
-- Running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
-- Testing pricing assumptions and investment risk scenarios via analytical software models
-- Received an award for increasing efficiency in a major internal project
+- Providing feedback to telephone interviewers on a productivity basis as well as a quality basis
+- Assisting supervisors in the recruitment process by assessing communication skills in a mock call with potential telephone interviewers
+- Assisting supervisors in training Trainee Telephone Interviewers
+- Switching between Telephone interviewer role and Senior interviewer
 
-**[Network Research](https://www.thisismotif.com)** (September 2010 to May 2013)    
+
+**[Network Research](https://www.thisismotif.com)** (2010 - 2013)    
 *Telephone Interviewer*  
-- Running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
-- Testing pricing assumptions and investment risk scenarios via analytical software models
-- Received an award for increasing efficiency in a major internal project
+- Conducting customer satisfaction surveys on behalf of clients
+- Demonstrating excellent communication skills and persuasive techniques
+- Troubleshooting technical issues with the software used to input user information
+- Negotiating appointments with respondents in order to conduct the survey
+- Meeting hourly targets
+- Dealing with respondents queries
+
 
 ## <a name="interests">Interests</a>
 - 📚 **Reading** 
