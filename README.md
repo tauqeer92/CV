@@ -2,7 +2,6 @@
 
 # Tauqeer Shoaib (tauqeershoaib@gmail.com)
 
-#
 
 [About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
@@ -22,9 +21,7 @@ In August 2022, I began studying software development at Makers Academy where I 
 | Project Name   | Description | Repo | Technologies |
 |---        |---          |---   |---           |
 | FriendZone| A social media site that brings people together to make the world a better place. It includes a chat function and a swipe right feature to enable the chat. | https://github.com/tauqeer92/MERNsters-inc| Javascript, Mongodb, Mongoose, Express, React, Node.js, Firebase, Jest, Cypress, Vite, Vitest, BCrypt, Tailwind CSS, useGestures, Nodemon |
-| Spybook | A superhero-exclusive social media site. |https://github.com/tauqeer92/acebook-the-incredibles| Javascript, Mongodb, Mongoose, Express, React, Node.js, Firebase, Jest, Cypress |
-| Air BNB | A clone of Air BNB that allows users to book a space and owners to list a space.
- | https://github.com/tauqeer92/makersbnb-ruby-seed | Ruby, Postgresql, HTML, CSS, SQL |
+| Spybook | A superhero-exclusive social media site. |https://github.com/tauqeer92/acebook-the-incredibles| Javascript, Mongodb, Mongoose, Express, React, Node.js, Firebase, Jest, Cypress | | Air BNB | A clone of Air BNB that allows users to book a space and owners to list a space. | https://github.com/tauqeer92/makersbnb-ruby-seed | Ruby, Postgresql, HTML, CSS, SQL |
 
 For more, please see my [GitHub repo list](https://github.com/tauqeer92?tab=repositories).
 
